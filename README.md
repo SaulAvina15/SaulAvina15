@@ -7,4 +7,4 @@
 ### Vias de contacto
 - ![Email](https://img.shields.io/badge/email-saul.avina.15@gmail.com-blue)
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Saul%20Aviña-blue?logo=linkedin&logoColor=white)
+- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaul-gerardo-avina-hernandez-02b7371bb%2F)
