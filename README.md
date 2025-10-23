@@ -13,3 +13,7 @@
 ](https://www.linkedin.com/in/saul-gerardo-avina-hernandez-02b7371bb/)
 
 ### My Activity
+⚡ Recent Activity
+
+<!--START_SECTION:recent-activity-->
+<!--END_SECTION:recent-activity-->
