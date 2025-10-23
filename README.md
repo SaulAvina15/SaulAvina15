@@ -15,5 +15,5 @@
 ### My Activity
 ⚡ Recent Activity
 
-<!--START_SECTION:recent-activity-->
-<!--END_SECTION:recent-activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
